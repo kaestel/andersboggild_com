@@ -9,7 +9,7 @@ if(isset($read_access) && $read_access) {
 
 // updates point paths in db to:
 
-$old_framework = "/projects/www/framework/";
-$new_framework = "/projects/www/framework/v2/";
+$old_framework = "/projects/www/framework/v2/";
+$new_framework = "/srv/sites/clients/andersboggild_com/wires/";
 
 include_once($_SERVER["FRAMEWORK_PATH"]."/admin/reset/framework/change_framework.php");
