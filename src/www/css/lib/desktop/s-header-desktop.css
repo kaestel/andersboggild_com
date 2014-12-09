@@ -11,13 +11,13 @@
 #navigation li.selected a {color: #444444;}
 
 
-#navigation li.front {position: absolute; bottom: 0; left: 20px; width: 200px; height: 83px;} 
+#navigation li.front {position: absolute; bottom: 0; left: 20px; width: 200px; height: 60px;} 
 #navigation li.front a {text-indent: -1000px; height: 83px; display: block; background: transparent url(/img/logo.png) no-repeat top left; background-size: 100% auto;}
 
 
 #navigation li.contact {height: 126px;}
 #navigation li.contact ul {display: none; opacity: 0; padding: 0;}
-#navigation li.contact h3 {padding: 0; margin: 0; font-size: 12px; color: #888888; cursor: pointer;}
+#navigation li.contact h3 {padding: 0; margin: 0; font-size: 16px; color: #888888; cursor: pointer;}
 #navigation li.contact li {display: block; font-size: 12px; line-height: 13px;}
 #navigation li.contact li.role {display: none;}
 #navigation li.contact li.phone {padding-top: 10px;}
